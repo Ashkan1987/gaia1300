@@ -37,6 +37,19 @@ profile.out
 *.log
 vagrant
 
+# Build
+artifacts
+vendor
+build
+tools/bin/*
+examples/build/*
+docs/_build
+docs/node_modules
+docs/tutorial
+dist
+tools-stamp
+docs/node_modules
+
 # IDE
 .idea/
 *.iml
